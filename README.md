@@ -7,7 +7,7 @@
 <blockquote align="center">“Não espere resultados brilhantes se suas metas não forem claras”!</blockquote>
 
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/DanielObara/desafio-07-Fundamentos-ReactJS/?color=%2304D361">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/DanielObara/desafio-07-Fundamentos-ReactJS?color=%2304D361">
 
   <a href="https://rocketseat.com.br">
     <img alt="Made by Rocketseat" src="https://img.shields.io/badge/made%20by-DanielObara-%2304D361">
